@@ -10,7 +10,7 @@
                 Sign in to continue
               </div>
               <div class="card-body">
-                <img src="https://i1248.photobucket.com/albums/hh483/hilarion18/RPV%20WS.png" border="0" alt=" photo RPV.png" height=100 width=100>
+                <img src="../assets/rumah_logo.png" border="0" alt=" photo RPV.png" height=100 width=100>
                 <h4 class="text-center">Papua untuk bangsa</h4>
                 <form class="form-signin">
                   <input type="text" class="form-control mb-2" placeholder="Email or phone number" required autofocus>
